@@ -1,0 +1,211 @@
+.fondo {
+    width: 100%;
+    height: 100%;
+    background: url('../img/fondo-01.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.tacos-fondo {
+    background: url(../img/tacos-ruta.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.salchipapas {
+    background: url(../img/salchipapas-fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.combo {
+    background: url(../img/combo-fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.tequenos {
+    background: url(../img/tequenos-fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.bebidas {
+    background: url(../img/bebidas-fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.accordion-button2 {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 1rem 1.25rem;
+    font-size: 1rem;
+    color: #212529;
+    text-align: left;
+    border: 0;
+    border-radius: 0;
+    overflow-anchor: none;
+    color: #ffffff;
+    background: url('../img/tacos-fondo.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.accordion-button3 {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 1rem 1.25rem;
+    font-size: 1rem;
+    color: #212529;
+    text-align: left;
+    border: 0;
+    border-radius: 0;
+    overflow-anchor: none;
+    color: #ffffff;
+    background: url('../img/salchipapas-fondo.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.accordion-button4 {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 1rem 1.25rem;
+    font-size: 1rem;
+    color: #212529;
+    text-align: left;
+    border: 0;
+    border-radius: 0;
+    overflow-anchor: none;
+    color: #ffffff;
+    background: url('../img/combo-fondo.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.accordion-button5 {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 1rem 1.25rem;
+    font-size: 1rem;
+    color: #212529;
+    text-align: left;
+    border: 0;
+    border-radius: 0;
+    overflow-anchor: none;
+    color: #ffffff;
+    background: url('../img/tequenos-fondo.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.accordion-button6 {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 1rem 1.25rem;
+    font-size: 1rem;
+    color: #212529;
+    text-align: left;
+    border: 0;
+    border-radius: 0;
+    overflow-anchor: none;
+    color: #ffffff;
+    background: url('../img/bebidas-fondo.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+derecha {
+    -webkit-text-stroke: 1px black;
+    color: #fff;
+    font-size: 2.3em;
+    font-family: "esta";
+    text-transform: uppercase;
+    margin: auto;
+}
+
+ruta-p {
+    color: #fff;
+}
+
+ruta-p p {
+    font-size: 14px;
+}
+
+.full {
+    width: 100%;
+    height: auto;
+}
+
+.ocho {
+    width: 80%;
+    float: left;
+    color: #fff;
+    font-weight: 500;
+}
+
+.ocho strong {
+    color: #da7f69;
+    font-size: 30px;
+}
+
+.ocho p {
+    font-size: 24px;
+}
+
+.cuatro {
+    width: 20%;
+    float: right;
+    color: #fff;
+    margin-top: 5%;
+}
+
+.cuatro p {
+    font-size: 24px;
+    margin-top: 0.5em;
+    float: right;
+    color: #fff;
+    padding: 3px 6px 3px 6px;
+    font-weight: 800;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #fff;
+}
+
+@font-face {
+    font-family: "esta";
+    src: url("../fonts/CooperBlackRegular.ttf");
+}
+
+.accordion button {
+    font-size: 20px;
+    font-family: "esta";
+}
+
+.img-logo {
+    width: 22%;
+}
+
+@media (max-width: 768px) {
+    .img-logo {
+        width: 50%;
+    }
+}
