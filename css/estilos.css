@@ -163,11 +163,11 @@ ruta-p p {
 
 .ocho strong {
     color: #da7f69;
-    font-size: 30px;
+    font-size: 25px;
 }
 
 .ocho p {
-    font-size: 24px;
+    font-size: 20px;
 }
 
 .cuatro {
@@ -178,11 +178,11 @@ ruta-p p {
 }
 
 .cuatro p {
-    font-size: 24px;
+    font-size: 20px;
     margin-top: 0.5em;
     float: right;
     color: #fff;
-    padding: 3px 6px 3px 6px;
+    padding: 3px 2px 3px 2px;
     font-weight: 800;
     border-radius: 5px;
     border-style: solid;
