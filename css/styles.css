@@ -5063,7 +5063,7 @@ fieldset:disabled .btn {
 
 .accordion-button:not(.collapsed) {
     color: #ffffff;
-    background: url('../img/fondo-alitas.jpg');
+    background: url('../img/fondo-alitas.webp');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -5118,7 +5118,7 @@ fieldset:disabled .btn {
 }
 
 .accordion-item:first-of-type .accordion-button {
-    background: url(../img/fondo-alitas.jpg);
+    background: url(../img/fondo-alitas.webp);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
