@@ -1,7 +1,7 @@
 .fondo {
     width: 100%;
     height: 100%;
-    background: url('../img/fondo-01.png');
+    background: url('../img//fondo-01.webp');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -22,7 +22,7 @@
 }
 
 .combo {
-    background: url(../img/combo-fondo.jpg);
+    background: url(../img/combo-fondo.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -36,7 +36,7 @@
 }
 
 .bebidas {
-    background: url(../img/bebidas-fondo.jpg);
+    background: url(../img/bebidas-fondo.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -171,23 +171,24 @@ ruta-p p {
     text-align: center;
 }
 
-
-}
 .ocho strong {
     color: #da7f69;
     font-size: 20px;
     font-family: 'buena';
 }
+
 .ocho p {
     font-size: 18px;
     font-family: serif;
 }
+
 .cuatro {
     width: 20%;
     float: right;
     color: #fff;
     margin-top: 5%;
 }
+
 .cuatro p {
     font-size: 17px;
     margin-top: 0.5em;
@@ -200,21 +201,26 @@ ruta-p p {
     border-width: 2px;
     border-color: #fff;
 }
+
 @font-face {
     font-family: "esta";
     src: url("../fonts/CooperBlackRegular.ttf");
 }
+
 @font-face {
     font-family: 'buena';
     src: url("../fonts/HARMONY\ Personal\ use.otf");
 }
+
 .accordion button {
     font-size: 20px;
     font-family: "esta";
 }
+
 .img-logo {
     width: 22%;
 }
+
 @media (max-width: 768px) {
     .img-logo {
         width: 50%;
