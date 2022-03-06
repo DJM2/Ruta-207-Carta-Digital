@@ -8,7 +8,7 @@
 }
 
 .tacos-fondo {
-    background: url(../img/tacos-ruta.jpeg);
+    background: url(../img/tequenos-fondo.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -29,7 +29,7 @@
 }
 
 .tequenos {
-    background: url(../img/tequenos-fondo.jpg);
+    background: url(../img/tequenos-fondo.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -54,7 +54,7 @@
     border-radius: 0;
     overflow-anchor: none;
     color: #ffffff;
-    background: url('../img/tacos-fondo.jpg');
+    background: url('../img/tequenos-fondo.webp');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -72,7 +72,7 @@
     border-radius: 0;
     overflow-anchor: none;
     color: #ffffff;
-    background: url('../img/salchipapas-fondo.jpg');
+    background: url('../img/salchipapas-fondo.webp');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -90,7 +90,7 @@
     border-radius: 0;
     overflow-anchor: none;
     color: #ffffff;
-    background: url('../img/combo-fondo.jpg');
+    background: url(../img/combo-fondo.webp);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -108,7 +108,7 @@
     border-radius: 0;
     overflow-anchor: none;
     color: #ffffff;
-    background: url('../img/tequenos-fondo.jpg');
+    background: url('../img/tequenos-fondo.webp');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -126,7 +126,7 @@
     border-radius: 0;
     overflow-anchor: none;
     color: #ffffff;
-    background: url('../img/bebidas-fondo.jpg');
+    background: url(../img/bebidas-fondo.webp);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
