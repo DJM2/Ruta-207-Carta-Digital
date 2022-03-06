@@ -5109,7 +5109,7 @@ fieldset:disabled .btn {
 }
 
 .accordion-item {
-    background-color: #144d3a;
+    background-color: transparent;
 }
 
 .accordion-item:first-of-type {

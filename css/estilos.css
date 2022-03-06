@@ -164,7 +164,7 @@ ruta-p p {
 .ocho strong {
     color: #da7f69;
     font-size: 20px;
-    font-family: 'esta';
+    font-family: 'buena';
 }
 
 .ocho p {
@@ -195,6 +195,11 @@ ruta-p p {
 @font-face {
     font-family: "esta";
     src: url("../fonts/CooperBlackRegular.ttf");
+}
+
+@font-face {
+    font-family: 'buena';
+    src: url("../fonts/HARMONY\ Personal\ use.otf");
 }
 
 .accordion button {
